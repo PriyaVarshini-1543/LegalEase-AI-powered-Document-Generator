@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110">
+  <rect width="420" height="110" rx="20" fill="#2457C5"/>
+  <path d="M55 25h38v60H55z" fill="#fff" opacity=".95"/>
+  <path d="M68 38h12v34H68zM91 38h12v34H91z" fill="#2457C5"/>
+  <text x="125" y="70" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#fff">LegalEase</text>
+</svg>
